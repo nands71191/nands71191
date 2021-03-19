@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nands71191
-- 👀 I’m interested in becoming a Python developer
+- 👀 I’m interested in becoming best in a Python developer
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: nands71191@gmail.com
 
 <!---
