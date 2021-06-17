@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nands71191
 - 👀 I’m interested in becoming best in a Python developer
 - 🌱 I’m currently learning Django
-- 📫 How to reach me: nands71191@gmail.com
+- 📫 How to reach me: npawar8050@gmail.com
 
 <!---
 nands71191/nands71191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
